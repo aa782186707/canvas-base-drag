@@ -1,0 +1,52 @@
+{
+    // "env": {
+    //     "browser": true,
+    //     "commonjs": true,
+    //     "es6": true,
+    //     "node": true
+    // },
+    // "parserOptions": {
+    //     "ecmaFeatures": {
+    //         "jsx": true
+    //     },
+    //     "sourceType": "module"
+    // },
+    // "plugins": ["html"],
+    // "settings": {
+    //     "html/html-extensions": [".html", ".we"],
+    //     "html/report-bad-indent": "error"
+    // },
+    // "extends": [
+    //     "standard",
+    //     "plugin:vue/recommended"
+    // ],
+    // "rules": {
+    //     "no-const-assign": 2,
+    //     "no-this-before-super": 2,
+    //     "no-undef": 2,
+    //     "no-unreachable": 2,
+    //     "no-unused-vars": 2,
+    //     "quotes": 0,
+    //     "constructor-super": 2,
+    //     "valid-typeof": 2,
+    //     "indent": [0, 4],
+    //     "vue/html-indent": [0, 4],
+    //     "vue/html-self-closing": ["off", {
+    //         "html": {
+    //             "void": "always",
+    //             "normal": "never",
+    //             "component": "always"
+    //         },
+    //         "svg": "always",
+    //         "math": "always"
+    //     }],
+    //     "semi": 0,
+    //     "vue/max-attributes-per-line": 0,
+    //     "vue/attribute-hyphenation": 0,
+    //     "space-before-function-paren": 0,
+    //     "vue/order-in-components": 0,
+    //     "comma-dangle": [2, "always-multiline"],
+    //     "operator-linebreak": 0,
+    //     "no-undef": 0
+    // }
+}
